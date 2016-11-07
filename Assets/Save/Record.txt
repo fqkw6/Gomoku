@@ -1,0 +1,24 @@
+
+{
+    "_PlayerChessCloor" : 1,
+    "_AIChessCloor"     : 2,
+    "_AllChessCount"    : 4,
+    "_AllChessData"     : [
+        {
+            "_Coordinate" : "8,8",
+            "_Own"        : "Player"
+        },
+        {
+            "_Coordinate" : "10,10",
+            "_Own"        : "AI"
+        },
+        {
+            "_Coordinate" : "9,9",
+            "_Own"        : "Player"
+        },
+        {
+            "_Coordinate" : "7,7",
+            "_Own"        : "AI"
+        }
+    ]
+}
